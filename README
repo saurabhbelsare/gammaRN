@@ -1,0 +1,1 @@
+This repository contains c code to generate gamma random numbers using gsl. Compilation details can be found in compileAndRun.sh
